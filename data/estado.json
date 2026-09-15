@@ -4,20 +4,20 @@
       "ultima_data_observada": "2026-08-01",
       "ultimo_valor_observado": -0.32,
       "visto_pela_primeira_vez_em": "2026-09-12",
-      "conferido_em": "2026-09-14"
+      "conferido_em": "2026-09-15"
     }
   },
   "rodadas": {
     "ultima": {
-      "em": "2026-09-14",
+      "em": "2026-09-15",
       "acao": "nada_a_fazer",
-      "detalhe": "Nada a fazer: faltam 25 dias para a divulgação de setembro de 2026 e a série segue em 2026-08-01."
+      "detalhe": "Nada a fazer: faltam 24 dias para a divulgação de setembro de 2026 e a série segue em 2026-08-01."
     },
     "ultima_nada_a_fazer": {
-      "em": "2026-09-14",
-      "detalhe": "Nada a fazer: faltam 25 dias para a divulgação de setembro de 2026 e a série segue em 2026-08-01."
+      "em": "2026-09-15",
+      "detalhe": "Nada a fazer: faltam 24 dias para a divulgação de setembro de 2026 e a série segue em 2026-08-01."
     },
-    "carimbo_utc": "2026-09-14T09:04:21+00:00",
+    "carimbo_utc": "2026-09-15T09:03:42+00:00",
     "ultima_nao_deu_para_verificar": {
       "em": "2026-09-02",
       "detalhe": "Não deu para verificar: calendário de divulgações: Não foi possível falar com a API do calendário do IBGE: <urlopen error timed out>. Nenhuma conclusão foi tirada — isto NÃO significa 'sem novidade'."
