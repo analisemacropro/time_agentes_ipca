@@ -9,7 +9,7 @@
   },
   "rodadas": {
     "ultima": {
-      "em": "2026-10-03",
+      "em": "2026-10-04",
       "acao": "nao_deu_para_verificar",
       "detalhe": "Não deu para verificar: série do IPCA: Não foi possível falar com o SGS (série 433): <urlopen error [Errno -2] Name or service not known>. Nenhuma conclusão foi tirada — isto NÃO significa 'sem novida"
     },
@@ -17,9 +17,9 @@
       "em": "2026-10-02",
       "detalhe": "Nada a fazer: faltam 7 dias para a divulgação de setembro de 2026 e a série segue em 2026-08-01."
     },
-    "carimbo_utc": "2026-10-03T09:03:48+00:00",
+    "carimbo_utc": "2026-10-04T10:50:21+00:00",
     "ultima_nao_deu_para_verificar": {
-      "em": "2026-10-03",
+      "em": "2026-10-04",
       "detalhe": "Não deu para verificar: série do IPCA: Não foi possível falar com o SGS (série 433): <urlopen error [Errno -2] Name or service not known>. Nenhuma conclusão foi tirada — isto NÃO significa 'sem novida"
     },
     "ultima_dado_novo_chegou": {
